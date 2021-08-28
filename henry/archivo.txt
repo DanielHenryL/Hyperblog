@@ -1,0 +1,7 @@
+-rw-r--r-- 1 USUARIO 197121 0 Aug 23 17:44 abc
+-rw-r--r-- 1 USUARIO 197121 0 Aug 23 17:44 index.html
+-rw-r--r-- 1 USUARIO 197121 0 Aug 23 18:46 index.py
+-rw-r--r-- 1 USUARIO 197121 0 Aug 23 18:46 itachi.py
+-rw-r--r-- 1 USUARIO 197121 0 Aug 23 18:46 naruto.py
+-rw-r--r-- 1 USUARIO 197121 0 Aug 23 18:59 xd.html
+total 0
